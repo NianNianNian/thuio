@@ -424,6 +424,14 @@ header .carousel-indicators li {
 	color: white;
 }
 
+.get-it button.app-tophacker{
+	width: 152px;
+	height: 52px;
+	background: url(../img/badge-appstore.png) #373737 no-repeat 0px 5px;
+	color: white;
+}
+
+
 .get-it hr{
 	margin-top: 3em;
 	margin-bottom: 3em;
